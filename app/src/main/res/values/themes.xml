@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Tema base de la aplicación. La apariencia real (claro/oscuro y colores)
+      la maneja Compose mediante RegistroEmpleadosTheme; aquí solo se declara
+      un tema sin ActionBar como punto de arranque de la Activity.
+    -->
+    <style name="Theme.RegistroEmpleados" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
