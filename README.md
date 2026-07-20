@@ -49,7 +49,7 @@ app/src/main/java/com/example/registroempleados/
 1. Abrir el proyecto en **Android Studio** (File → Open → seleccionar esta carpeta).
 2. Esperar a que Gradle sincronice y descargue las dependencias.
 3. Seleccionar un emulador o conectar un dispositivo físico (API 24 o superior).
-4. Presionar **Run ▶**.
+4. Presionar **Run**.
 
 ### Cómo probar cada requisito
 
